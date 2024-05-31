@@ -24,6 +24,6 @@ In conclusion, this geospatial analysis provides valuable insights for optimizin
 #### Details of Files
 
 * QGIS file: [Bus Data Analysis Project](https://github.com/amruthapurnavadrevu/Geospatial-Data-Analysis/blob/main/BusDataAnalysis.qgz)
-* Lothian Bus Dataset: [BusData] (https://github.com/amruthapurnavadrevu/Geospatial-Data-Analysis/blob/main/BusData.xlsx)
+* Lothian Bus Dataset: [BusData](https://github.com/amruthapurnavadrevu/Geospatial-Data-Analysis/blob/main/BusData.xlsx)
 * Scottish Index of Multiple Deprivation 2020 (SIMD2020) that has the information on various datazones: [SIMD2020](https://github.com/amruthapurnavadrevu/Geospatial-Data-Analysis/blob/main/simd2020.sql) 
  
