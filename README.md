@@ -2,16 +2,22 @@
 
 This project presents a geospatial analysis of Edinburgh's bus network, focusing on average bus speeds and the distribution of bus stops across various datazones.
 
-## Tools Used: 
+### Tools Used 
 
 * QGIS for spatial data analysis and visualization
 * PostgreSQL for database management and queries
 
-## Visualization
+### Visualization
 
 <p align="center">
     <img src="https://github.com/amruthapurnavadrevu/Geospatial-Data-Analysis/blob/main/Lothian%20Bus%20Visualisation.jpg" alt="Bus Network Visualization" width="500"/>
 </p>
 
-This visualization aids urban planners and policymakers in understanding public transit dynamics, helping to identify areas for improvement and optimize the bus network for better accessibility and efficiency.
+### Findings
+
+The poster's findings align with real-world observations: areas with a higher density of bus stops tend to experience slower speeds. This is likely due to increased dwell times at stops and potential traffic congestion.
+
+For instance, Princes Street, a highly congested area during peak hours, has the highest bus stop density according to the poster. However, the surrounding areas appear to have a lower density of stops. Strategically placing more bus stops in these peripheral areas could help divert traffic away from Princes Street, alleviating congestion.
+
+In conclusion, this geospatial analysis provides valuable insights for optimizing Edinburgh's bus network. By strategically distributing bus stops and potentially rerouting buses, the city can improve accessibility and overall network efficiency.
  
