@@ -9,7 +9,9 @@ This project presents a geospatial analysis of Edinburgh's bus network, focusing
 
 ## Visualization
 
-![Bus Network Visualization](/Users/amruthapurnavadrevu/Desktop/Git/Geospatial-Data-Analysis/Lothian Bus Visualisation.jpg)
+<p align="center">
+    <img src="https://github.com/amruthapurnavadrevu/Geospatial-Data-Analysis/blob/main/Lothian%20Bus%20Visualisation.jpg" alt="Bus Network Visualization" width="500"/>
+</p>
 
 This visualization aids urban planners and policymakers in understanding public transit dynamics, helping to identify areas for improvement and optimize the bus network for better accessibility and efficiency.
  
