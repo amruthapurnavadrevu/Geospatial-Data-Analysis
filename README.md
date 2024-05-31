@@ -4,6 +4,6 @@ This project presents a geospatial analysis of Edinburgh's bus network, focusing
 
 ## Tools Used: 
 
-QGIS for spatial data analysis and visualization
-PostgreSQL for database management and queries
+* QGIS for spatial data analysis and visualization
+* PostgreSQL for database management and queries
  
